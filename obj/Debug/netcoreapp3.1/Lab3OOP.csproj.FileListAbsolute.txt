@@ -1,0 +1,15 @@
+C:\Users\Wrong\Source\repos\Lab3OOP\bin\Debug\netcoreapp3.1\Lab3OOP.exe
+C:\Users\Wrong\Source\repos\Lab3OOP\bin\Debug\netcoreapp3.1\Lab3OOP.deps.json
+C:\Users\Wrong\Source\repos\Lab3OOP\bin\Debug\netcoreapp3.1\Lab3OOP.runtimeconfig.json
+C:\Users\Wrong\Source\repos\Lab3OOP\bin\Debug\netcoreapp3.1\Lab3OOP.runtimeconfig.dev.json
+C:\Users\Wrong\Source\repos\Lab3OOP\bin\Debug\netcoreapp3.1\Lab3OOP.dll
+C:\Users\Wrong\Source\repos\Lab3OOP\bin\Debug\netcoreapp3.1\Lab3OOP.pdb
+C:\Users\Wrong\Source\repos\Lab3OOP\obj\Debug\netcoreapp3.1\Lab3OOP.csprojAssemblyReference.cache
+C:\Users\Wrong\Source\repos\Lab3OOP\obj\Debug\netcoreapp3.1\Lab3OOP.AssemblyInfoInputs.cache
+C:\Users\Wrong\Source\repos\Lab3OOP\obj\Debug\netcoreapp3.1\Lab3OOP.AssemblyInfo.cs
+C:\Users\Wrong\Source\repos\Lab3OOP\obj\Debug\netcoreapp3.1\Lab3OOP.dll
+C:\Users\Wrong\Source\repos\Lab3OOP\obj\Debug\netcoreapp3.1\Lab3OOP.pdb
+C:\Users\Wrong\Source\repos\Lab3OOP\obj\Debug\netcoreapp3.1\Lab3OOP.genruntimeconfig.cache
+C:\Users\Wrong\Source\repos\Lab3OOP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Wrong\Source\repos\Lab3OOP\obj\Debug\netcoreapp3.1\Lab3OOP.csproj.CoreCompileInputs.cache
+C:\Users\Wrong\Source\repos\Lab3OOP\obj\Debug\netcoreapp3.1\Lab3OOP.csproj.CopyComplete

@@ -1,0 +1,12 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Lab3OOP.Mammals, Lab3OOP]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "Lab3OOP.Dog, Lab3OOP",
+      "name": "doggy",
+      "trained": true,
+      "weight": 20,
+      "age": 10
+    }
+  ]
+}

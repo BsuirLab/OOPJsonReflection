@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3MWzDrVEzzccNHDnGXdEGOTmSsTvtpknl8d/7WvZ4PRGYm4lxBnMnluyi5U530rgpBpqQ7o/V1EVH5kliFozw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wrong\\Source\\repos\\Lab3OOP\\Lab3OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wrong\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
